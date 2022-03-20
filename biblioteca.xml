@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="biblioteca.xsl"?>
+<biblioteca xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/xampp/htdocs/Cenec/Lenguaje%20de%20marcas/finalT2/biblioteca.xsd">
+  <libro>
+    <foto>miki.webp</foto>
+    <titulo>La cansada Miki</titulo>
+    <autor>Milan Kundera</autor>
+    <fechaPublicacion/>
+  </libro>
+  <libro>
+    <foto>senda.webp</foto>
+    <titulo>Las siestas de Senda</titulo>
+    <autor fechaNacimiento="28/03/1936">Mario Vargas Llosa</autor>
+    <fechaPublicacion año="1973"/>
+  </libro>
+  <libro>
+    <foto>summer.webp</foto>
+    <titulo>La mirada fija de Summer</titulo>
+    <autor fechaNacimiento="28/03/1936">Mario Vargas Llosa</autor>
+    <fechaPublicacion año="1969"/>
+  </libro>
+</biblioteca>
